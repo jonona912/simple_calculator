@@ -1,2 +1,2 @@
 # simple_calculator
-Practice of building a simple calculator using Backus-Naur Form (BNF) mathematical grammar and applying it using Recursive Descent Parser to dissect input string
+Practice of building a simple calculator using Backus-Naur Form (BNF) mathematical grammar and applying it using Recursive Descent Parser to dissect input string by using binary abstract syntax tree
